@@ -1,18 +1,23 @@
-### Olá! Eu sou o Antônio Clécio 🖐️
+## Olá! Eu sou o Antônio Clécio 🖐️
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-cl%C3%A9cio-2a6b4721a)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clecioanttonio)
+<div>
+  <a href="https://https://www.linkedin.com/in/ant%C3%B4nio-cl%C3%A9cio-2a6b4721a/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonio-clecio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-clecio&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</div>
 
-![Antônio Clécio GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-clecio&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-clecio&layout=compact)](https://github.com/antonio-clecio/github-readme-stats)
-
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div><br/>
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+##
+  
+<div>
+  <a href="https://www.linkedin.com/in/ant%C3%B4nio-cl%C3%A9cio-2a6b4721a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/clecioanttonio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
