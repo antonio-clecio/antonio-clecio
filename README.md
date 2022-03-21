@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://https://www.linkedin.com/in/ant%C3%B4nio-cl%C3%A9cio-2a6b4721a/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=antonio-clecio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-clecio&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antonio-clecio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-clecio&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
