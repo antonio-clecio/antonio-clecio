@@ -17,7 +17,4 @@
   
 <div>
   <a href="https://www.linkedin.com/in/ant%C3%B4nio-cl%C3%A9cio-2a6b4721a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/clecioanttonio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-  
-![Snake animation](https://github.com/antonio-clecio/antonio-clecio/blob/output/github-contribution-grid-snake.svg)
+  </div>
